@@ -1,3 +1,5 @@
+⚠️ **注意**，这一插件目前正在这一仓库被维护并更新更多功能：https://github.com/ret2ldz/KPwnHelper
+
 [English](README.en.md) | [简体中文](README.md)
 
 # Better printk for IDA
